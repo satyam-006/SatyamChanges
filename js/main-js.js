@@ -14,7 +14,7 @@ window.onload = function (e) {
 
           <div class="col-12 col-sm col-md mb-0 text-center">
 
-            <h1 style="font-size: x-large;">INTERNATIONAL CONFERENCE ON COMPUTING AND COMMUNICATION SYSTEMS FOR INDUSTRIAL AAUTOMATION AND CONTROL ComISAC</h1>
+            <h1 style="font-size: x-large;">INTERNATIONAL CONFERENCE ON COMPUTING AND COMMUNICATION SYSTEMS FOR INDUSTRIAL AUTOMATION AND CONTROL (ComISAC)</h1>
             
 
             <h2 style="font-size:1.0rem;text-transform:uppercase">Organized by: Kalinga institute of technology <br>KIIT Road, Patia, Bhubaneswar, Odisha, India</h2>
@@ -171,10 +171,10 @@ window.onload = function (e) {
   }
 
 
-  /*
-  me commented
+  
+ // me commented
   // Set the date we're counting down to
-var countDownDate = new Date("oct 3, 2020 12:00:00").getTime();
+var countDownDate = new Date("mar 15, 2024 12:00:00").getTime();
 
 // Update the count down every 1 second
 var x = setInterval(function() {
@@ -200,5 +200,5 @@ var x = setInterval(function() {
     clearInterval(x);
     document.getElementById("demo").innerHTML = "EXPIRED";
   }
-}, 1000);*/
-// document.getElementById('demo').innerHTML='15-16 MARCH 2024';
+}, 1000);
+ document.getElementById('demo').innerHTML='15-16 MARCH 2024';
