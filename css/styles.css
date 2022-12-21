@@ -54,15 +54,18 @@ h1{
 .marquees{
   background: lightgrey;
 }
-#Keynote-speakers{
-  font-size: 50px;
+
+.Keynote-speakers {
+  font-size: 4vw;
   font-stretch: expanded;
   font-weight: bold;
 }
-.Keynotes{
+
+.Keynotes {
   padding-bottom: 70px;
   background: #A8F1F1;
 }
+
 /* .sp-images{
   padding-left: 30px;
   padding-right: 25px;
@@ -74,27 +77,45 @@ h1{
   margin: 0;
   width: 180px;
 } */
-.img-taylor{height: 10vw;
+/* .img-taylor {
+  height: 10vw;
 
 }
-.img-benthom{
+
+.img-benthom {
   height: 11vw;
 
-}
-.img-ieeelogo{
-  width: 16vw;
+} */
+
+.img-KIITlogo {
+  width: 30vw;
   height: auto;
+  margin-bottom: 2vw;
+}
+.sponsor-kiit-logo{
+  width: 40vw;
+}
+
+.sponsor-wla-logo {
+  width: 20vw;
+}
+
+.sponsor-android-logo {
+  width: 20vw;
 
 }
+
 /* #pp-images{
   padding: 10px 30px 10px 30px;
 } */
-.dropdown-item{
-  color:white
+.dropdown-item {
+  color: white
 }
-.dropdown-item:hover{
+
+.dropdown-item:hover {
   background: lightgrey;
 }
+
 .btn {
   background-color: DodgerBlue;
   border: none;
