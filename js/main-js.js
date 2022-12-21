@@ -14,14 +14,14 @@ window.onload = function (e) {
 
           <div class="col-12 col-sm col-md mb-0 text-center">
 
-            <h1 style="font-size: x-large;">INTERNATIONAL CONFERENCE ON COMPUTING AND COMMUNICATION SYSTEMS FOR INDUSTRIAL AUTOMATION AND CONTROL (ComISAC)</h1>
+            <h1 style="font-size: x-large;">INTERNATIONAL CONFERENCE ON COMPUTING AND COMMUNICATION SYSTEMS FOR INDUSTRIAL AAUTOMATION AND CONTROL ComISAC</h1>
             
 
-            <h2 style="font-size:1.0rem;text-transform:uppercase">Organized by: Kalinga institute of technology <br>KIIT Road, Patia, Bhubaneswar, Odisha, India</h2>
+            <h2 style="font-size:1.0rem;text-transform:uppercase">ComSIA 2024 will be organsied by KIIT Deemed to be University <br>KIIT Road, Patia, Bhubaneswar, Odisha, India</h2>
             <h3 style="font-size:1.0rem;text-transform:uppercase"> In Association With </h3>
 
             <hr id="hrr">
-            <h3 style="font-size:1.0rem;text-transform:uppercase">Institute of Electrical and Electronics Engineers (IEEE)</h3>
+            <h3 style="font-size:1.0rem;text-transform:uppercase">World Leadership Academy</h3>
             <p id="demo" style="font-size:1.6rem">15-16 MARCH 2024</p>
           </div>
           <div class="col-12 col-sm text-center">
@@ -50,8 +50,8 @@ window.onload = function (e) {
                           <address class="address">
                           KALINGA INSTITUTE OF TECHNOLOGY, KIIT ROAD, PATIA, BHUBANESWAR, ODISHA
                         <br>
-                        <i class="fa fa-phone"> </i> &nbsp;: +9888767262<br>
-                        <i class="fa fa-fax"> </i> : +9888767262<br>
+                        <!-- <i class="fa fa-phone"> </i> &nbsp;: +9888767262<br>
+            <i class="fa fa-fax"> </i> : +9888767262<br> -->
                         <i class="fa fa-envelope"> </i> : <a href="mailto:comisac.conf@gmail.com">comisac.conf@gmail.com</a>
                      </address>
                       </div>
@@ -151,19 +151,19 @@ window.onload = function (e) {
                       <a class="nav-link text-white" href="#">Accommodation</a>
                     </li> -->
 
-                      <li class="nav-item dropdown dmenu">
-                      <a class="nav-link dropdown-toggle text-white" href="#" id="navbardrop" data-toggle="dropdown">
-                        Sessions
-                      </a>
-                      <div class="dropdown-menu sm-menu">
-                        <a class="dropdown-item text-white" href="session-1.html">Session 1</a>
-                        <div class="dropdown-divider"></div>
-                        <a class="dropdown-item text-white" href="#">Session 2</a>
-                        <div class="dropdown-divider"></div>
-                        <a class="dropdown-item text-white" href="#">Session 3</a>
-
-                      </div>
-                    </li>
+                      <!-- <li class="nav-item dropdown dmenu">
+                    <a class="nav-link dropdown-toggle text-white" href="#" id="navbardrop" data-toggle="dropdown">
+                      Sessions
+                    </a>
+                    <div class="dropdown-menu sm-menu">
+                      <a class="dropdown-item text-white" href="session-1.html">Session 1</a>
+                      <div class="dropdown-divider"></div>
+                      <a class="dropdown-item text-white" href="#">Session 2</a>
+                      <div class="dropdown-divider"></div>
+                      <a class="dropdown-item text-white" href="#">Session 3</a>
+              
+                    </div>
+                  </li> -->
                       </ul>
                     </div>
         `);
