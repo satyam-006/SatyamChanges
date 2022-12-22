@@ -5,10 +5,7 @@ window.onload = function (e) {
         <div class="row row-content">
           <div class="mb-0 text-center col-12 col-sm col-md">
             <span id="jumbo-images1">
-
-            <i id="one"><img src="kiit images/ieee.png" alt="IEEElogo" width="130" height="130"></i>
-
-            <i id="two"><img src="kiit images/KIIT.jpg" alt="KIITlogo" class="img-fluid sponsor_image"></i>
+            <i id="two"><img src="kiit images/KIIT.jpg" alt="KIITlogo" class="img-fluid jumbotron-img-top"></i>
             </span>
           </div>
 
@@ -25,9 +22,7 @@ window.onload = function (e) {
             <p id="demo" style="font-size:1.6rem">15-16 MARCH 2024</p>
           </div>
           <div class="col-12 col-sm text-center">
-
-            <img src="kiit images/ieee.png" alt="" width="130" height="130">
-            <img src="kiit images/KIIT.jpg" alt="" class="img-fluid sponsor_image">
+            <img src="kiit images/KIIT.jpg" alt="" class="img-fluid jumbotron-img-bottom">
           </div>
         </div>
 
