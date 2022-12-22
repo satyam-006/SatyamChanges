@@ -9,11 +9,24 @@
 #hrr{
   border: 1px solid;
 }
-.sponsor_image{
+.jumbotron-img-top {
   position: relative;
-  width:130px;
-  height:130px;
+  width: 200px;
+  height: 130px;
+  border-radius: 9px;
 }
+@media only screen and (max-width: 576px) {
+  .jumbotron-img-bottom{
+    display: none;
+  }
+}
+.jumbotron-img-bottom {
+  position: relative;
+  width: 200px;
+  height: 130px;
+  border-radius: 9px;
+}
+
 .jumbotron{
   padding-bottom: 10px;
   padding-top: 40px;
