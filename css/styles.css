@@ -56,7 +56,7 @@ h1{
 }
 
 .Keynote-speakers {
-  font-size: 4vw;
+  font-size: 34px;
   font-stretch: expanded;
   font-weight: bold;
 }
@@ -93,15 +93,15 @@ h1{
   margin-bottom: 2vw;
 }
 .sponsor-kiit-logo{
-  width: 40vw;
+  width: 290px;
 }
 
 .sponsor-wla-logo {
-  width: 20vw;
+  width: 170px;
 }
 
 .sponsor-android-logo {
-  width: 20vw;
+  width: 170px;
 
 }
 
@@ -120,7 +120,7 @@ h1{
   background-color: DodgerBlue;
   border: none;
   color: white;
-  padding: 12px 30px;
+  padding: 12px 10px;
   cursor: pointer;
   font-size: 20px;
 }
