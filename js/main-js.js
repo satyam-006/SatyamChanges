@@ -8,7 +8,7 @@ window.onload = function (e) {
           </span>
         </div>
         <div class="col-12 col-sm col-md mb-0 text-center">
-          <h1 style="font-family: 'Merriweather', serif;font-size: x-large;">INTERNATIONAL CONFERENCE ON COMPUTING AND COMMUNICATION SYSTEMS FOR INDUSTRIAL AAUTOMATION AND CONTROL (ComSAI)</h1>
+          <h1 style="font-family: 'Merriweather', serif;font-size: x-large;">INTERNATIONAL CONFERENCE ON COMPUTING AND COMMUNICATION SYSTEMS FOR INDUSTRIAL AUTOMATION AND CONTROL (ComSAI)</h1>
           <h1 style="font-family: 'Merriweather', serif;font-size: x-large;">15-16 March 2024</h1>
           <h2 style="font-family: 'Merriweather', serif;font-size:1.0rem;text-transform:uppercase">ComSIA 2024 will be organsied by KIIT Deemed to be University <br>KIIT Road, Patia, Bhubaneswar, Odisha, India</h2>
           <h3 style="font-family: 'Merriweather', serif;font-size:1.0rem;text-transform:uppercase"> In Association With </h3>
