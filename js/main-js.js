@@ -4,7 +4,8 @@ window.onload = function (e) {
       <div class="row row-content">
         <div class="mb-0 text-center col-12 col-sm col-md">
           <span id="jumbo-images1">
-          <i id="two"><img src="kiit images/du.jpg" alt="KIITlogo" class="img-fluid jumbotron-img-top"></i>
+          <i id="one"><img src="kiit images/du.jpg" alt="KIITlogo" class="img-fluid jumbotron-img-top"></i>
+           <i id="one"><img src="kiit images/rajguru.jpg" alt="KIITlogo" class="img-fluid jumbotron-img-top"></i>
           </span>
         </div>
         <div class="col-12 col-sm col-md mb-0 text-center">
