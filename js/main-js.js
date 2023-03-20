@@ -4,7 +4,7 @@ window.onload = function (e) {
       <div class="row row-content">
         <div class="mb-0 text-center col-12 col-sm col-md">
           <span id="jumbo-images1">
-          <i id="two"><img src="kiit images/KIIT.jpg" alt="KIITlogo" class="img-fluid jumbotron-img-top"></i>
+          <i id="two"><img src="kiit images/du.jpg" alt="KIITlogo" class="img-fluid jumbotron-img-top"></i>
           </span>
         </div>
         <div class="col-12 col-sm col-md mb-0 text-center">
@@ -15,10 +15,10 @@ Shaheed Rajguru College of Applied Sciences, University of Delhi</h2>
           <h3 style="font-family: 'Merriweather', serif;font-size:1.0rem;text-transform:uppercase"> In Association With </h3>
           <hr id="hrr">
           <h3 style="font-family: 'Merriweather', serif;font-size:1.0rem;text-transform:uppercase">World Leadership Academy</h3>
-          <p id="demo" style="font-family: 'Merriweather', serif;font-size:1.4rem">15-16 MARCH 2024</p>
+          <p id="demo" style="font-family: 'Merriweather', serif;font-size:1.4rem">10-11 MAY 2024</p>
         </div>
         <div class="col-12 col-sm text-center">
-          <img src="kiit images/KIIT.jpg" alt="" class="img-fluid jumbotron-img-bottom">
+          <img src="kiit images/du.jpg" alt="" class="img-fluid jumbotron-img-bottom">
         </div>
       </div>
       `);
@@ -38,7 +38,7 @@ Shaheed Rajguru College of Applied Sciences, University of Delhi</h2>
                     <div class="col-7 col-sm-5">
                         <h5> <span class="fa fa-map-marker"></span> Address</h5>
                         <address class="address">
-                        KALINGA INSTITUTE OF TECHNOLOGY, KIIT ROAD, PATIA, BHUBANESWAR, ODISHA
+                       Shaheed Rajguru College of Applied Sciences for Women, Vasundhara Enclave, Delhi-110096 INDIA 
                       <br>
                       <!-- <i class="fa fa-phone"> </i> &nbsp;: +9888767262<br>
           <i class="fa fa-fax"> </i> : +9888767262<br> -->
@@ -158,7 +158,7 @@ Shaheed Rajguru College of Applied Sciences, University of Delhi</h2>
 
 // me commented
 // Set the date we're counting down to
-var countDownDate = new Date("mar 15, 2024 12:00:00").getTime();
+var countDownDate = new Date("may 10, 2024 12:00:00").getTime();
 
 // Update the count down every 1 second
 var x = setInterval(function () {
@@ -185,4 +185,4 @@ var x = setInterval(function () {
     document.getElementById("demo").innerHTML = "EXPIRED";
   }
 }, 1000);
-document.getElementById('demo').innerHTML = '15-16 MARCH 2024';
+document.getElementById('demo').innerHTML = '10-11 MAY 2024';
