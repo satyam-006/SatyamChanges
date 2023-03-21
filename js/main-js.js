@@ -7,10 +7,7 @@ window.onload = function (e) {
           <i><img src="kiit images/du.jpg" alt="KIITlogo" class="img-fluid jumbotron-img-top"></i>
            
           </span>
-            <span id="jumbo-images1">
-          <i id="one"><img src="kiit images/rajguru.png" alt="KIITlogo" class="img-fluid jumbotron-img-top"></i>
-           
-          </span>
+          
         </div>
         <div class="col-12 col-sm col-md mb-0 text-center">
           <h1 style="font-family: 'Merriweather', serif;font-size: x-large;">INTERNATIONAL CONFERENCE ON COMPUTING AND COMMUNICATION SYSTEMS FOR INDUSTRIAL AUTOMATION AND CONTROL (ComSIA)</h1>
