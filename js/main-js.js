@@ -17,9 +17,9 @@ window.onload = function (e) {
           <h1 style="font-family: 'Merriweather', serif;font-size: x-large;">10-11 May 2024</h1>
           <h2 style="font-family: 'Merriweather', serif;font-size:1.0rem;text-transform:uppercase">ComSIA 2024 will be jointly organsied by School of Open Learning, University of Delhi and
 Shaheed Rajguru College of Applied Sciences, University of Delhi</h2>
-          <h3 style="font-family: 'Merriweather', serif;font-size:1.0rem;text-transform:uppercase"> In Association With </h3>
+       <!--   <h3 style="font-family: 'Merriweather', serif;font-size:1.0rem;text-transform:uppercase"> In Association With </h3>
           <hr id="hrr">
-          <h3 style="font-family: 'Merriweather', serif;font-size:1.0rem;text-transform:uppercase">World Leadership Academy</h3>
+          <h3 style="font-family: 'Merriweather', serif;font-size:1.0rem;text-transform:uppercase">World Leadership Academy</h3>-->
           <p id="demo" style="font-family: 'Merriweather', serif;font-size:1.4rem">10-11 MAY 2024</p>
         </div>
         <div class="col-12 col-sm text-center">
