@@ -23,7 +23,7 @@ Shaheed Rajguru College of Applied Sciences, University of Delhi</h2>
           <p id="demo" style="font-family: 'Merriweather', serif;font-size:1.4rem">10-11 MAY 2024</p>
         </div>
         <div class="col-12 col-sm text-center">
-          <img src="kiit images/du.jpg" alt="" class="img-fluid jumbotron-img-bottom">
+          <img src="kiit images/rajguru.png" alt="" class="img-fluid jumbotron-img-bottom">
         </div>
       </div>
       `);
