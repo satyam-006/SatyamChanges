@@ -16,6 +16,9 @@
     .track-heading{
       font-size: 1.3rem;
     }
+  .carousal-title{
+   font-size: 1.0rem;
+}
 }
 * {
   padding: 0px;
@@ -81,6 +84,10 @@ h1 {
   transition: transform .2s;
 }
 
+.carousal-title{
+   font-family: 'Roboto', sans-serif;
+   color: white !important;"
+}
 .zoom:hover {
   -ms-transform: scale(1.2);
   /* IE 9 */
