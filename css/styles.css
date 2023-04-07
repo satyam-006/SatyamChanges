@@ -1,6 +1,22 @@
 @import url('https://fonts.googleapis.com/css2?family=Baloo+2&family=Merriweather:wght@300&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap');
 
+@media only screen and (max-width: 576px) {
+  .jumbotron-img-bottom {
+      display: none;
+    }
+    .jumbotron-img-top{
+      width: 143px;
+      height: 100px;
+      margin-bottom: 10px;
+    }
+   .jumbotron-top-heading{
+      font-size: 1.2rem;
+    }
+    .track-heading{
+      font-size: 1.3rem;
+    }
+}
 * {
   padding: 0px;
   margin: 0px;
@@ -22,11 +38,6 @@
   border-radius: 9px;
 }
 
-@media only screen and (max-width: 576px) {
-  .jumbotron-img-bottom {
-    display: none;
-  }
-}
 
 .jumbotron-img-bottom {
   position: relative;
@@ -159,4 +170,10 @@ h1 {
 /* Darker background on mouse-over */
 .btn:hover {
   background-color: RoyalBlue;
+}
+.track-heading{
+  font-family: 'Roboto', sans-serif;
+  margin-top: 20px;
+  padding-left: 20px;
+  font-size: 1.6rem;
 }
