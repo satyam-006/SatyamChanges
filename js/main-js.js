@@ -34,20 +34,23 @@ Shaheed Rajguru College of Applied Sciences, University of Delhi</h2>
                             <li><a href="index.html" style="font-family: 'Merriweather', serif;font-size:1.0rem;">Home</a></li>
                             <li><a href="Registrations.html">Registrations</a></li>
                             <li><a href="spon_sorship.html">Sponsorship</a></li>
-                            <li><a href="#">Accommodate</a></li>
+                            <li><a href="call_for_papers.html">Call for Papers</a></li>
+                            <li><a href="important_dates.html">Important Dates</a></li>
+                            <li><a href="downloads.html">Downloads</a></li>
+                            <li><a href="https://cmt3.research.microsoft.com/">CMT portal</a></li>
                         </ul>
                     </div>
                     <div class="col-7 col-sm-5">
                         <h5> <span class="fa fa-map-marker"></span> Address</h5>
                         <address class="address">
-                       Shaheed Rajguru College of Applied Sciences for Women, Vasundhara Enclave, Delhi-110096 INDIA 
+                       Shaheed Rajguru College of Applied Sciences for Women,<br> Vasundhara Enclave,<br> Delhi-110096, <br> INDIA 
                       <br>
                       <!-- <i class="fa fa-phone"> </i> &nbsp;: +9888767262<br>
           <i class="fa fa-fax"> </i> : +9888767262<br> -->
                       <i class="fa fa-envelope"> </i> : <a href="mailto:comisac.conf@gmail.com">comisac.conf@gmail.com</a>
                    </address>
                     </div>
-                    <div class="col-12 col-sm-4 align-self-center">
+                    <div class="col-12 col-sm-4">
                         <div class="text-center">
                             <h5 class="text-center">Social Media</h5>
                             <hr style="border-top: 1px dashed #327FBF">
@@ -61,9 +64,8 @@ Shaheed Rajguru College of Applied Sciences, University of Delhi</h2>
                <div class="row justify-content-center">
                     <div class="col-auto">
                       <section class="sec Copyright">
-                      <!-- <p class="footer_p_i_h2_a footer_p_i_a">Copyright © Intelligent Communication and Computational Research Laboratory| All Rights Reserved | <a href="https://www.linkedin.com/in/sunnam-sai-jyothi-swaroop" target="_blank" style="color: teal;cursor: pointer;">Website Developed By S Sai Jyothi Swaroop</a> <a style="color: teal;cursor: pointer;" href="https://www.linkedin.com/in/manavarthi-venkat-rao?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bi%2B9dH7EqRVKLiciXidLBRg%3D%3D" target="_blank">and M Venkat Rao </a><a href="https://www.linkedin.com/in/karan-singh227" target="_blank" style="color: teal;cursor: pointer;">and Karan Singh</a>|</p>
-                      -->
-                </section>
+                      <p class="footer_p_i_h2_a footer_p_i_a">Copyright © Intelligent Communication and Computational Research Laboratory| All Rights Reserved |</p>
+                      
                     </div>
                </div>
             </div>
