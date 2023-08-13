@@ -47,7 +47,7 @@ Shaheed Rajguru College of Applied Sciences, University of Delhi</h2>
                       <br>
                       <!-- <i class="fa fa-phone"> </i> &nbsp;: +9888767262<br>
           <i class="fa fa-fax"> </i> : +9888767262<br> -->
-                      <i class="fa fa-envelope"> </i> : <a href="mailto:comisac.conf@gmail.com">comisac.conf@gmail.com</a>
+                      <i class="fa fa-envelope"> </i> : <a href="mailto:comsia.conf@gmail.com">comsia.conf@gmail.com</a>
                    </address>
                     </div>
                     <div class="col-12 col-sm-4">
@@ -57,18 +57,19 @@ Shaheed Rajguru College of Applied Sciences, University of Delhi</h2>
                             <a class="btn btn-social-icon btn-facebook" href="#"><i class="fa fa-facebook fa-lg"></i></a>
                             <a class="btn btn-social-icon btn-linkedin" href="#"><i class="fa fa-linkedin fa-lg"></i></a>
                             <a class="btn btn-social-icon btn-twitter" href="#"><i class="fa fa-twitter fa-lg"></i></a>
-                            <a class="btn btn-social-icon bg-light" href="mailto:comisac.conf@gmail.com"><i class="fa fa-envelope fa-lg"></i></a>
+                            <a class="btn btn-social-icon bg-light" href="mailto:comsia.conf@gmail.com"><i class="fa fa-envelope fa-lg"></i></a>
                         </div>
                     </div>
                </div>
+               </div>
+               <hr color="white">
                <div class="row justify-content-center">
                     <div class="col-auto">
-                      <section class="sec Copyright">
-                      <p class="footer_p_i_h2_a footer_p_i_a">Copyright © Intelligent Communication and Computational Research Laboratory| All Rights Reserved |</p>
+              
+                      <p class="footer_p_i_h2_a footer_p_i_a">Copyright © Intelligent Communication and Computational Research Laboratory|<a href="##"> All Rights Reserved | </a></p>
                       
                     </div>
                </div>
-            </div>
       `);
 
 
@@ -81,9 +82,6 @@ Shaheed Rajguru College of Applied Sciences, University of Delhi</h2>
                       <li class="nav-item">
                         <a class="nav-link text-white" href="index.html">Home <span class="sr-only">(current)</span></a>
                       </li>
-                      <!-- <li class="nav-item">
-                      <a class="nav-link text-white" href="##">E-adhaya</a>
-                    </li> -->
                       <li class="nav-item dropdown dmenu">
                           <a class="nav-link dropdown-toggle text-white" href="#" id="navbardrop" data-toggle="dropdown">
                             About
@@ -102,6 +100,8 @@ Shaheed Rajguru College of Applied Sciences, University of Delhi</h2>
                             <a class="dropdown-item text-white" href="call_for_papers.html">Call For Papers</a>
                             <div class="dropdown-divider"></div>
                             <a class="dropdown-item text-white" href="paper_submission.html">Paper Submission</a>
+                            <div class="dropdown-divider"></div>
+                            <a class="dropdown-item text-white" href="call_for_special_sessions.html">Call For Special Sessions</a>
                           </div>
                         </li>
                         <li class="nav-item">
