@@ -77,8 +77,8 @@ Shaheed Rajguru College of Applied Sciences, University of Delhi</h2>
       <button type="button"class="navbar-toggler" data-toggle="collapse" data-target="#Navbar">
                     <span class="navbar-toggler-icon"></span>
                 </button>
-                  <div class="collapse navbar-collapse" id="Navbar">
-                    <ul class="nav navbar-nav">
+                  <div class="collapse navbar-collapse" id="Navbar" style="justify-content: center;">
+                    <ul class="nav navbar-nav" style="width: 80%;justify-content: space-evenly;">
                       <li class="nav-item">
                         <a class="nav-link text-white" href="index.html">Home <span class="sr-only">(current)</span></a>
                       </li>
