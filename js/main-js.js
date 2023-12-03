@@ -144,7 +144,7 @@ Shaheed Rajguru College of Applied Sciences, University of Delhi</h2>
                     Special Sessions
                   </a>
                   <div class="dropdown-menu sm-menu">
-                    <a class="dropdown-item text-white" href="session-1.html">Session 1</a>
+                    <a class="dropdown-item text-white" href="/gallery/Session1.pdf">Session 1</a>
                     <div class="dropdown-divider"></div>
                     <a class="dropdown-item text-white" href="#">Session 2</a>
                     <div class="dropdown-divider"></div>
