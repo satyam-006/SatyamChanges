@@ -143,14 +143,22 @@ Shaheed Rajguru College of Applied Sciences, University of Delhi</h2>
                   <a class="nav-link dropdown-toggle text-white" href="#" id="navbardrop" data-toggle="dropdown">
                     Special Sessions
                   </a>
-                  <div class="dropdown-menu sm-menu">
+                <!--  <div class="dropdown-menu sm-menu">
                     <a class="dropdown-item text-white" href="/gallery/Session1.pdf">Session 1</a>
                     <div class="dropdown-divider"></div>
                     <a class="dropdown-item text-white" href="#">Session 2</a>
                     <div class="dropdown-divider"></div>
                     <a class="dropdown-item text-white" href="#">Session 3</a>
             
-                  </div>
+                  </div>-->
+                    <div class="col col-12 col-lg-6 col-md-4">
+        <a href="/gallery/Session 1.pdf"
+            target="_blank"><button class="btn" style="width:100%;margin-bottom:1px;">Session 1
+               <i class="fa fa-download"></i></button></a>
+
+      
+
+      </div>
                 </li> 
                     </ul>
                   </div>
