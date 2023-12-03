@@ -139,9 +139,9 @@ Shaheed Rajguru College of Applied Sciences, University of Delhi</h2>
                     <!-- <li class="nav-item">
                     <a class="nav-link text-white" href="#">Accommodation</a>
                   </li> -->
-                    <!-- <li class="nav-item dropdown dmenu">
+                    <li class="nav-item dropdown dmenu">
                   <a class="nav-link dropdown-toggle text-white" href="#" id="navbardrop" data-toggle="dropdown">
-                    Sessions
+                    Special Sessions
                   </a>
                   <div class="dropdown-menu sm-menu">
                     <a class="dropdown-item text-white" href="session-1.html">Session 1</a>
@@ -151,7 +151,7 @@ Shaheed Rajguru College of Applied Sciences, University of Delhi</h2>
                     <a class="dropdown-item text-white" href="#">Session 3</a>
             
                   </div>
-                </li> -->
+                </li> 
                     </ul>
                   </div>
       `);
