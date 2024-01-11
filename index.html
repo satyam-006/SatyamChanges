@@ -18,6 +18,19 @@
   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
 
   <title>ComSIA - Home</title>
+  <title>Example of a blinking text using CSS within a marquee</title>
+        <style>
+            .blink {
+                animation: blinker 1.5s linear infinite;
+                color: red;
+                font-family: sans-serif;
+            }
+            @keyframes blinker {
+                50% {
+                    opacity: 0;
+                }
+            }
+        </style>
 </head>
 
 <body>
@@ -30,7 +43,7 @@
   <!-- </div> -->
   <!-- end of navigation bar -->
   <br>
-  <marquee color=#00008B>Now, the accepted papers of ComSIA 2024 will be published as proceedings in CEUR Workshop Proceedings indexed by Scopus, DBLP, and Many More.
+  <marquee class="blink">Now, the accepted papers of ComSIA 2024 will be published as proceedings in CEUR Workshop Proceedings indexed by Scopus, DBLP, and Many More.
   </marquee>
   <!-- carousel -->
   <div class="container">
