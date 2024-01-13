@@ -121,8 +121,12 @@ Shaheed Rajguru College of Applied Sciences, University of Delhi</h2>
                       <div class="dropdown-menu sm-menu">
                         <a class="dropdown-item text-white" href="steering_committee.html">Steering Committee</a>
                         <div class="dropdown-divider"></div>
-                        <a class="dropdown-item text-white" href="Advisory_and_technical_committee.html">Advisory And Technical committee</a>
+                        <a class="dropdown-item text-white" href="Advisory_committee.html">Advisory Committee</a>
+                         <div class="dropdown-divider"></div>
+                        <a class="dropdown-item text-white" href="Technical_committee.html">Technical Committee</a>
+              
                       </div>
+                      
                     </li>
                     <li class="nav-item">
                       <a class="nav-link text-white " href="conference_venue.html">Conference Venue</a>
