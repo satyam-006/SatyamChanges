@@ -24,6 +24,17 @@
   padding: 0px;
   margin: 0px;
 }
+#scrollToTopBtn{
+  position: fixed;
+  z-index: 100;
+  bottom: 3vh;
+  right: 3vw;
+  opacity: 0.8;
+  background-color: skyblue;
+  padding: 10px;
+  border-radius: 50%;
+  border: none;
+}
 
 #jumbo-images1 {
   position: relative;

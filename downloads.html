@@ -15,13 +15,14 @@
   <link rel="stylesheet" href="css/styles.css">
   <link rel="icon" href="icontitle.png" type="image/x-icon">
 
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-social/5.1.1/bootstrap-social.min.css">
-  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+  <link rel="stylesheet" href="https://site-assets.fontawesome.com/releases/v6.2.1/css/all.css">
 
   <title>ComSIA- Downloads</title>
 </head>
 
 <body>
+  <!-- scroll to top -->
+  <button id="scrollToTopBtn"><i class="fa-solid fa-arrow-up"></i></button>
   <div class="jumbotron">
   </div>
   <nav class="navbar navbar-expand-sm navbar-dark bg-dark sticky-top"></nav>
@@ -35,49 +36,50 @@
   <!-- end of inside content -->
   <div class="container">
     <div class="row">
-      
-
-        <div class="col col-12 col-lg-6 col-md-4">
-          <a href="http://dosci-conf.com/ManuscriptguidelinesforEnglishbooks.pdf"
-            target="_blank"><button class="btn" style="width:100%;margin-bottom:1px;">
-              Manu Script Guidelines <i class="fa fa-download"></i></button></a>
 
 
-          <a href="http://dosci-conf.com/Checklist.pdf" target="_blank"><button class="btn" style="width:100%;margin-bottom:9px;"> Checklist <i class="fa fa-download"></i></button></a>
-
-        </div>
       <div class="col col-12 col-lg-6 col-md-4">
-        <a href="http://dosci-conf.com/SpringerWordTemplate.zip"
-            target="_blank"><button class="btn" style="width:100%;margin-bottom:1px;">
-              Spring Word Template <i class="fa fa-download"></i></button></a>
+        <a href="http://dosci-conf.com/ManuscriptguidelinesforEnglishbooks.pdf" target="_blank"><button class="btn"
+            style="width:100%;margin-bottom:1px;">
+            Manu Script Guidelines <i class="fa fa-download"></i></button></a>
 
-              <a href="http://dosci-conf.com/SpringerLaTeXTemplate.zip"
-              target="_blank"><button class="btn" style="width:100%;margin-bottom:1px;">
-                Spring La Tex Template <i class="fa fa-download"></i></button></a>
+
+        <a href="http://dosci-conf.com/Checklist.pdf" target="_blank"><button class="btn"
+            style="width:100%;margin-bottom:9px;"> Checklist <i class="fa fa-download"></i></button></a>
 
       </div>
       <div class="col col-12 col-lg-6 col-md-4">
-        <a href="/gallery/Elsevier SSRN_Word Template.docx"
-            target="_blank"><button class="btn" style="width:100%;margin-bottom:1px;">Elsevier SSRN Paper Template
-               <i class="fa fa-download"></i></button></a>
+        <a href="http://dosci-conf.com/SpringerWordTemplate.zip" target="_blank"><button class="btn"
+            style="width:100%;margin-bottom:1px;">
+            Spring Word Template <i class="fa fa-download"></i></button></a>
 
-      
-
-      </div>
-        <div class="col col-12 col-lg-6 col-md-4">
-        <a href="/gallery/Brochure 2.pdf"
-            target="_blank"><button class="btn" style="width:100%;margin-bottom:1px;">Conference Brochure
-               <i class="fa fa-download"></i></button></a>
-
-      
+        <a href="http://dosci-conf.com/SpringerLaTeXTemplate.zip" target="_blank"><button class="btn"
+            style="width:100%;margin-bottom:1px;">
+            Spring La Tex Template <i class="fa fa-download"></i></button></a>
 
       </div>
-       <div class="col col-12 col-lg-6 col-md-4">
-        <a href="/gallery/Special-session-CFP-Template (Comsia).docx"
-            target="_blank"><button class="btn" style="width:100%;margin-bottom:1px;">Special-session-CFP-Template (Comsia)
-               <i class="fa fa-download"></i></button></a>
+      <div class="col col-12 col-lg-6 col-md-4">
+        <a href="/gallery/Elsevier SSRN_Word Template.docx" target="_blank"><button class="btn"
+            style="width:100%;margin-bottom:1px;">Elsevier SSRN Paper Template
+            <i class="fa fa-download"></i></button></a>
 
-      
+
+
+      </div>
+      <div class="col col-12 col-lg-6 col-md-4">
+        <a href="/gallery/Brochure 2.pdf" target="_blank"><button class="btn"
+            style="width:100%;margin-bottom:1px;">Conference Brochure
+            <i class="fa fa-download"></i></button></a>
+
+
+
+      </div>
+      <div class="col col-12 col-lg-6 col-md-4">
+        <a href="/gallery/Special-session-CFP-Template (Comsia).docx" target="_blank"><button class="btn"
+            style="width:100%;margin-bottom:1px;">Special-session-CFP-Template (Comsia)
+            <i class="fa fa-download"></i></button></a>
+
+
 
       </div>
     </div>
@@ -99,7 +101,22 @@
     crossorigin="anonymous"></script>
   <br></br>
   <!-- start of footer -->
+  <script>
+    document.addEventListener('DOMContentLoaded', function () {
+      // Get the button element
+      var scrollToTopBtn = document.getElementById('scrollToTopBtn');
 
+      // Add a click event listener to the button
+      scrollToTopBtn.addEventListener('click', function () {
+        // Scroll to the top of the page
+        window.scrollTo({
+          top: 0,
+          behavior: 'smooth' // Add smooth scrolling behavior
+        });
+      });
+    });
+
+  </script>
 </body>
 
 </html>

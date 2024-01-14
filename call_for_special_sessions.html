@@ -15,14 +15,14 @@
     <link rel="stylesheet" href="css/styles.css">
     <link rel="icon" href="icontitle.png" type="image/x-icon">
 
-    <link rel="stylesheet"
-        href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-social/5.1.1/bootstrap-social.min.css">
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="https://site-assets.fontawesome.com/releases/v6.2.1/css/all.css">
 
     <title>ComSAI - Call Paper for Special Sessions</title>
 </head>
 
 <body>
+    <!-- scroll to top -->
+    <button id="scrollToTopBtn"><i class="fa-solid fa-arrow-up"></i></button>
     <div class="jumbotron">
     </div>
     <nav class="navbar navbar-expand-sm navbar-dark bg-dark sticky-top"></nav>
@@ -39,44 +39,48 @@
                     <br>
 
                     Comsia 2024 team invites you to organize the special session in International
-                    Conference/Doctoral Symposium on Computing & Communication Systems for Industrial Applications(ComSIA-2024), to be held at School of Open Learning, University of Delhi and 
-                    Shaheed Rajguru College of Applied Sciences, University of Delhi during 10-11th May 2024 of your research domain. 
-                    We are diligently working to bring some of the most knowledgeable researchers from all over the world 
+                    Conference/Doctoral Symposium on Computing & Communication Systems for Industrial
+                    Applications(ComSIA-2024), to be held at School of Open Learning, University of Delhi and
+                    Shaheed Rajguru College of Applied Sciences, University of Delhi during 10-11th May 2024 of your
+                    research domain.
+                    We are diligently working to bring some of the most knowledgeable researchers from all over the
+                    world
                     along with the leaders from the industry to explore the important topics of research.
-                    
-                     <br>
+
+                    <br>
 
                     Kindly increase the value of the conference/symposium by being part of this conference/symposium as
                     a session chair and heading your own session in this esteemed conference/symposium. We are aware
-                    about your networking skills and of having an eye to identify quality research papers.</p>
+                    about your networking skills and of having an eye to identify quality research papers.
+                </p>
 
                 <h3>Highlights of the symposium and Special Session Benefits:</h3>
                 <p style="padding-top: 20px; font-size: 20px;padding-bottom: 0%;">
-                1. All accepted papers will be published as Scopus Indexed Proceedings by Springer (Approval
-                        Pending). </p>
+                    1. All accepted papers will be published as Scopus Indexed Proceedings by Springer (Approval
+                    Pending). </p>
                 <p style="padding-top: 20px; font-size: 20px;padding-bottom: 0%;">
-                2. You will get 20% of the total fees collected in your session.1. </p>
+                    2. You will get 20% of the total fees collected in your session.1. </p>
                 <p style="padding-top: 20px; font-size: 20px;padding-bottom: 0%;">
-                4. Extended papers in SCI/Scopus/ESCI/DBLP/ACM Digital Library journals. We have already got
-                        approval from some Scopus and high quality journals. (Soon will be declared)1. </p>
+                    4. Extended papers in SCI/Scopus/ESCI/DBLP/ACM Digital Library journals. We have already got
+                    approval from some Scopus and high quality journals. (Soon will be declared)1. </p>
                 <p style="padding-top: 20px; font-size: 20px;padding-bottom: 0%;">
-                5. High quality publishing houses are part of this conference like Springer, Elsevier,
-                        Inderscience, IEEE, Benthm Science, IGI Global and many more.
-                        1. </p>
+                    5. High quality publishing houses are part of this conference like Springer, Elsevier,
+                    Inderscience, IEEE, Benthm Science, IGI Global and many more.
+                    1. </p>
                 <p style="padding-top: 20px; font-size: 20px;padding-bottom: 0%;">
-                6. Opportunity to be Session chair at the conference.1. </p>
+                    6. Opportunity to be Session chair at the conference.1. </p>
                 <p style="padding-top: 20px; font-size: 20px;padding-bottom: 0%;">
-                7. Special discount for your personal paper if above conditions are met. (If minimum number
-                        of papers get registered in your session)1. </p>
+                    7. Special discount for your personal paper if above conditions are met. (If minimum number
+                    of papers get registered in your session)1. </p>
                 <p style="padding-top: 20px; font-size: 20px;padding-bottom: 0%;">
-                8. Extra weightage and support will be provided for your session extended paper in SCI/
-                        Scopus Journal.1. </p>
+                    8. Extra weightage and support will be provided for your session extended paper in SCI/
+                    Scopus Journal.1. </p>
                 <p style="padding-top: 20px; font-size: 20px;padding-bottom: 0%;">
-                9. Many international and national key note speakers will be delivering their lectures on
-                        latest innovative technologies in the conference.1. </p>
+                    9. Many international and national key note speakers will be delivering their lectures on
+                    latest innovative technologies in the conference.1. </p>
                 <p style="padding-top: 20px; font-size: 20px;padding-bottom: 0%;">
-                10. Easy accessibility of the well-connected conference venue..
-                         </p>
+                    10. Easy accessibility of the well-connected conference venue..
+                </p>
                 <p style="padding-top: 20px; font-size: 20px;padding-bottom: 0%;">If you
                     are interested to conduct a special session, kindly mail us the special session proposal at
                     comsia.conf@gmail.com latest by 10th January 2024 as per the format attached with this mail.</p>
@@ -96,7 +100,8 @@
                 </p>
                 <h3>Comsia-2024</h3>
 
-                <a href="gallery/Special-session-CFP-Template (Comsia).docx" class="btn btn-primary">Special-session-CFP-Template(Comsia) <i class="fa fa-download"></i> </a>
+                <a href="gallery/Special-session-CFP-Template (Comsia).docx"
+                    class="btn btn-primary">Special-session-CFP-Template(Comsia) <i class="fa fa-download"></i> </a>
 
             </div>
         </div>
@@ -120,7 +125,22 @@
         crossorigin="anonymous"></script>
 
     <!-- start of footer -->
+    <script>
+        document.addEventListener('DOMContentLoaded', function () {
+            // Get the button element
+            var scrollToTopBtn = document.getElementById('scrollToTopBtn');
 
+            // Add a click event listener to the button
+            scrollToTopBtn.addEventListener('click', function () {
+                // Scroll to the top of the page
+                window.scrollTo({
+                    top: 0,
+                    behavior: 'smooth' // Add smooth scrolling behavior
+                });
+            });
+        });
+
+    </script>
 </body>
 
 </html>
