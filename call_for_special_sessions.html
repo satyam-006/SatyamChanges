@@ -15,14 +15,14 @@
     <link rel="stylesheet" href="css/styles.css">
     <link rel="icon" href="icontitle.png" type="image/x-icon">
 
-    <link rel="stylesheet"
-        href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-social/5.1.1/bootstrap-social.min.css">
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="https://site-assets.fontawesome.com/releases/v6.2.1/css/all.css">
 
     <title>ComSAI - Call Paper for Special Sessions</title>
 </head>
 
 <body>
+    <!-- scroll to top -->
+    <button id="scrollToTopBtn"><i class="fa-solid fa-arrow-up"></i></button>
     <div class="jumbotron">
     </div>
     <nav class="navbar navbar-expand-sm navbar-dark bg-dark sticky-top"></nav>
@@ -38,6 +38,9 @@
                 <p style="padding-top: 20px; font-size: 20px;">Greeting from Comsia-2024!
                     <br>
 
+                  
+
+                  
                     ComSIA 2024 team invites you to organize the special session in International Conference on 
                     Computing & Communication Systems for Industrial Applications (ComSIA-2024), to be held at 
                     School of Open Learning, University of Delhi and Shaheed Rajguru College of Applied Sciences,
@@ -47,12 +50,16 @@
                     
                      <br>
 
+
                     Kindly increase the value of the conference/symposium by being part of this conference/symposium as
                     a session chair and heading your own session in this esteemed conference/symposium. We are aware
-                    about your networking skills and of having an eye to identify quality research papers.</p>
+                    about your networking skills and of having an eye to identify quality research papers.
+                </p>
 
                 <h3>Highlights of the conference and Special Session Benefits:</h3>
                 <p style="padding-top: 20px; font-size: 20px;padding-bottom: 0%;">
+
+                 
                 1. All accepted papers will be published in the proceedings of ComSIA-2024 (Scopus Indexed) </p>
                 <p style="padding-top: 20px; font-size: 20px;padding-bottom: 0%;">
                 2. You will get 15% of the total fees collected in your session. </p>
@@ -79,6 +86,7 @@
                 <p style="padding-top: 20px; font-size: 20px;padding-bottom: 0%;">
                 10. Easy accessibility of the well-connected conference venue.
                          </p>
+
                 <p style="padding-top: 20px; font-size: 20px;padding-bottom: 0%;">If you
                     are interested to conduct a special session, kindly mail us the special session proposal at
                     comsia.conf@gmail.com latest by 30th January 2024 as per the format attached with this mail.</p>
@@ -98,7 +106,8 @@
                 </p>
                 <h3>Comsia-2024</h3>
 
-                <a href="gallery/Special-session-CFP-Template (Comsia).docx" class="btn btn-primary">Special-session-CFP-Template(Comsia) <i class="fa fa-download"></i> </a>
+                <a href="gallery/Special-session-CFP-Template (Comsia).docx"
+                    class="btn btn-primary">Special-session-CFP-Template(Comsia) <i class="fa fa-download"></i> </a>
 
             </div>
         </div>
@@ -122,7 +131,22 @@
         crossorigin="anonymous"></script>
 
     <!-- start of footer -->
+    <script>
+        document.addEventListener('DOMContentLoaded', function () {
+            // Get the button element
+            var scrollToTopBtn = document.getElementById('scrollToTopBtn');
 
+            // Add a click event listener to the button
+            scrollToTopBtn.addEventListener('click', function () {
+                // Scroll to the top of the page
+                window.scrollTo({
+                    top: 0,
+                    behavior: 'smooth' // Add smooth scrolling behavior
+                });
+            });
+        });
+
+    </script>
 </body>
 
 </html>

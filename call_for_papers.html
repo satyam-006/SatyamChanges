@@ -14,13 +14,14 @@
   <link rel="stylesheet" href="css/styles.css">
   <link rel="icon" href="icontitle.png" type="image/x-icon">
 
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-social/5.1.1/bootstrap-social.min.css">
-  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+  <link rel="stylesheet" href="https://site-assets.fontawesome.com/releases/v6.2.1/css/all.css">
 
   <title>ComSAI - Call for Papers</title>
 </head>
 
 <body>
+  <!-- scroll to top -->
+  <button id="scrollToTopBtn"><i class="fa-solid fa-arrow-up"></i></button>
   <div class="jumbotron">
   </div>
   <nav class="navbar navbar-expand-sm navbar-dark bg-dark sticky-top"></nav>
@@ -30,7 +31,8 @@
     <div class="row row-content">
       <div class="col-12 col-sm-12">
         <h1 class="text-center" style="font-family: 'Roboto', sans-serif;font-size:2.2rem;">Call Of Papers</h1>
-        <p style="font-family: 'Roboto', sans-serif;padding: 20px;font-size: 20px;text-align: justify;">The scope of this conference is to provide a platform for researchers,
+        <p style="font-family: 'Roboto', sans-serif;padding: 20px;font-size: 20px;text-align: justify;">The scope of
+          this conference is to provide a platform for researchers,
           engineers, academicians as well as industrial professionals from all over the world to present their research
           results and development activities in various topics of Engineering and Technology, Sciences and
           Social-Sciences,System Architectures, Software Engineering and Automation,Data-Driven Intelligent
@@ -51,7 +53,7 @@
         <li> Recommender systems for software engineering </li>
         <li> Software visualization </li>
 
-        
+
 
         <h2 class="track-heading"> TRACK 2: INTELLIGENT SYSTEMS</h2>
         <li> Multidimensional artificial intelligence </li>
@@ -108,12 +110,16 @@
         <li> Security and Privacy concerns in IoT</li>
 
         <h2 class="track-heading">TRACK 6: HARDWARE ARCHITECTURE AND COMMUNICATION TECHNOLOGIES</h2>
-        <li>Designing and creating circuit boards, processors, memory, input/output devices, and other components that make up a computer or electronic system.</li>
+        <li>Designing and creating circuit boards, processors, memory, input/output devices, and other components that
+          make up a computer or electronic system.</li>
         <li>Using computer-aided design (CAD) software to create schematics and blueprints of the components.</li>
-        <li>The goal of hardware design is to create a reliable, efficient, and cost-effective system that meets the needs of its users.</li>
+        <li>The goal of hardware design is to create a reliable, efficient, and cost-effective system that meets the
+          needs of its users.</li>
         <li>Communication refers to the exchange of data between devices or systems.</li>
-        <li>Communication protocols often involve the use of software to encode and decode data, as well as to manage the flow of data between devices.</li>
-        <li>Process Monitoring, Reliability & Fault tolerance, Embedded Software and Hardware Architecture Techniques.</li>
+        <li>Communication protocols often involve the use of software to encode and decode data, as well as to manage
+          the flow of data between devices.</li>
+        <li>Process Monitoring, Reliability & Fault tolerance, Embedded Software and Hardware Architecture Techniques.
+        </li>
 
         <h2 class="track-heading">TRACK 7: CYBER SECURITY AND DATA PRIVACY</h2>
         <li> Cyber-physical systems </li>
@@ -130,21 +136,27 @@
         <li> Network resiliency and network security</li>
         <li> Database, applications and web security</li>
 
-        
+
 
         <h2 class="track-heading">TRACK 8: INTELLIGENT SYSTEMS AND AUTOMATION</h2>
         <li>Can make decisions and take actions without explicit human intervention</li>
-        <li>Incorporate various AI techniques such as machine learning, natural language processing, and computer vision</li>
-        <li>Can be used in a wide range of applications, including healthcare, finance, manufacturing, and transportation</li>
+        <li>Incorporate various AI techniques such as machine learning, natural language processing, and computer vision
+        </li>
+        <li>Can be used in a wide range of applications, including healthcare, finance, manufacturing, and
+          transportation</li>
         <li>The use of technology to perform tasks with minimal human intervention</li>
-        <li>Can lead to job displacement in some cases, but can also create new job opportunities in areas such as maintenance, programming, and engineering.</li>
+        <li>Can lead to job displacement in some cases, but can also create new job opportunities in areas such as
+          maintenance, programming, and engineering.</li>
         <li>Can make decisions and take actions without explicit human intervention</li>
 
-       
-    
-        <p style="font-family: 'Roboto', sans-serif;font-weight: bold;padding: 10px;font-size: 20px;">The papers submitted to the conference will be
+
+
+        <p style="font-family: 'Roboto', sans-serif;font-weight: bold;padding: 10px;font-size: 20px;">The papers
+          submitted to the conference will be
           peer-reviewed and published as proceedings in Springer.</p>
-        <p style="font-family: 'Roboto', sans-serif;padding: 5px;font-size: 20px;text-align: justify;text-justify: inter-word;">All papers will undergo a
+        <p
+          style="font-family: 'Roboto', sans-serif;padding: 5px;font-size: 20px;text-align: justify;text-justify: inter-word;">
+          All papers will undergo a
           blind peer-review process and all accepted papers will be published in the conference proceedings. The
           conference organizer encourages submissions of academic and research papers that consider the
           multidisciplinary /interdisciplinary themes covering the Management, Science and Social Studies, through one
@@ -170,7 +182,22 @@
     crossorigin="anonymous"></script>
 
   <!-- start of footer -->
+  <script>
+    document.addEventListener('DOMContentLoaded', function () {
+      // Get the button element
+      var scrollToTopBtn = document.getElementById('scrollToTopBtn');
 
+      // Add a click event listener to the button
+      scrollToTopBtn.addEventListener('click', function () {
+        // Scroll to the top of the page
+        window.scrollTo({
+          top: 0,
+          behavior: 'smooth' // Add smooth scrolling behavior
+        });
+      });
+    });
+
+  </script>
 </body>
 
 </html>

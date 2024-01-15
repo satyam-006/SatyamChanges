@@ -48,17 +48,17 @@ Shaheed Rajguru College of Applied Sciences, University of Delhi</h2>
                       <br>
                       <!-- <i class="fa fa-phone"> </i> &nbsp;: +9888767262<br>
           <i class="fa fa-fax"> </i> : +9888767262<br> -->
-                      <i class="fa fa-envelope"> </i> : <a href="mailto:comsia.conf@gmail.com">comsia.conf@gmail.com</a>
+          <i class="fa-solid fa-envelope" style="color: #dc3545;"></i> : <a href="mailto:comsia.conf@gmail.com">comsia.conf@gmail.com</a>
                    </address>
                     </div>
                     <div class="col-12 col-sm-4">
                         <div class="text-center">
                             <h5 class="text-center">Social Media</h5>
                             <hr style="border-top: 1px dashed #327FBF">
-                            <a class="btn btn-social-icon btn-facebook" href="#"><i class="fa fa-facebook fa-lg"></i></a>
-                            <a class="btn btn-social-icon btn-linkedin" href="#"><i class="fa fa-linkedin fa-lg"></i></a>
-                            <a class="btn btn-social-icon btn-twitter" href="#"><i class="fa fa-twitter fa-lg"></i></a>
-                            <a class="btn btn-social-icon bg-light" href="mailto:comsia.conf@gmail.com"><i class="fa fa-envelope fa-lg"></i></a>
+                            <a class="btn btn-social-icon btn-facebook" href="#"><i class="fa-brands fa-facebook"></i></a>
+                            <a class="btn btn-social-icon btn-linkedin" href="#"><i class="fa-brands fa-linkedin"></i></a>
+                            <a class="btn btn-social-icon btn-twitter" href="#"><i class="fa-brands fa-twitter"></i></a>
+                            <a class="btn btn-social-icon bg-light" href="mailto:comsia.conf@gmail.com"><i class="fa-solid fa-envelope" style="color: #dc3545;"></i></a>
                         </div>
                     </div>
                </div>

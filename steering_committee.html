@@ -15,13 +15,13 @@
   <link rel="stylesheet" href="css/steering_cummity_style.css">
  <!-- <link rel="icon" href="icontitle.png" type="image/x-icon"> -->
 
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-social/5.1.1/bootstrap-social.min.css">
-  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
-
+ <link rel="stylesheet" href="https://site-assets.fontawesome.com/releases/v6.2.1/css/all.css">
   <title>ComSIA - Steering Committee</title>
 </head>
 
 <body>
+  <!-- scroll to top -->
+  <button id="scrollToTopBtn"><i class="fa-solid fa-arrow-up"></i></button>
   <div class="jumbotron">
   </div>
   <nav class="navbar navbar-expand-sm navbar-dark bg-dark sticky-top"></nav>
@@ -361,7 +361,22 @@
     crossorigin="anonymous"></script>
 
   <!-- start of footer -->
+  <script>
+    document.addEventListener('DOMContentLoaded', function () {
+        // Get the button element
+        var scrollToTopBtn = document.getElementById('scrollToTopBtn');
+         
+        // Add a click event listener to the button
+        scrollToTopBtn.addEventListener('click', function () {
+            // Scroll to the top of the page
+            window.scrollTo({
+                top: 0,
+                behavior: 'smooth' // Add smooth scrolling behavior
+            });
+        });
+    });
 
+</script>
 </body>
 
 </html>
