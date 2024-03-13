@@ -23,7 +23,7 @@ Shaheed Rajguru College of Applied Sciences, University of Delhi</h2>
         </div>
         <div class="col-12 col-sm text-center">
           <img src="kiit images/springer.png" alt="" class="img-fluid jumbotron-img-bottom"> <br><br>
-          <img src="kiit images/CEUR.png" alt="" class="img-fluid jumbotron-img-bottom">
+        <!--  <img src="kiit images/CEUR.png" alt="" class="img-fluid jumbotron-img-bottom">-->
         </div>
       </div>
       `);
