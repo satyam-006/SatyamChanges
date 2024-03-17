@@ -11,8 +11,8 @@ window.onload = function (e) {
           
         </div>
         <div class="col-12 col-sm col-md mb-0 text-center">
-          <h1 class="jumbotron-top-heading">INTERNATIONAL CONFERENCE ON COMPUTING AND COMMUNICATION SYSTEMS FOR INDUSTRIAL APPLICATIONS(ComSIA)</h1>
-           <h1 style="font-family: 'Merriweather', serif;font-size: x-large;">Theme: Intelligent Computing & Communication Technologies</h1>
+          <h1 class="jumbotron-top-heading">INTERNATIONAL SYMPOSIUM ON COMPUTING AND COMMUNICATION SYSTEMS FOR INDUSTRIAL APPLICATIONS(ComSIA)</h1>
+           <!--<h1 style="font-family: 'Merriweather', serif;font-size: x-large;">Theme: Intelligent Computing & Communication Technologies</h1>-->
           <h1 style="font-family: 'Merriweather', serif;font-size: x-large;">10-11 May 2024</h1>
           <h2 style="font-family: 'Merriweather', serif;font-size:1.0rem;text-transform:uppercase">ComSIA 2024 will be jointly organsied by School of Open Learning, University of Delhi and
 Shaheed Rajguru College of Applied Sciences, University of Delhi</h2>
@@ -22,7 +22,7 @@ Shaheed Rajguru College of Applied Sciences, University of Delhi</h2>
           <p id="demo" style="font-family: 'Merriweather', serif;font-size:1.4rem">10-11 MAY 2024</p>
         </div>
         <div class="col-12 col-sm text-center">
-          <img src="kiit images/springer.png" alt="" class="img-fluid jumbotron-img-bottom"> <br><br>
+        <!--<img src="kiit images/springer.png" alt="" class="img-fluid jumbotron-img-bottom">--> <br><br>
         <!--  <img src="kiit images/CEUR.png" alt="" class="img-fluid jumbotron-img-bottom">-->
         </div>
       </div>
