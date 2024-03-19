@@ -90,9 +90,9 @@ Shaheed Rajguru College of Applied Sciences, University of Delhi</h2>
                             About
                           </a>
                           <div class="dropdown-menu sm-menu text-white">
-                          <!-- <a class="dropdown-item text-white" href="about_iccr_lab.html">About ICCRLAB</a> -->
+                          <!-- <a class="dropdown-item" href="about_iccr_lab.html">About ICCRLAB</a> -->
                             <div class="dropdown-divider"></div>
-                            <a class="dropdown-item text-white" href="about_institute.html">About Institute</a>
+                            <a class="dropdown-item" href="about_institute.html">About Institute</a>
                           </div>
                         </li>
                         <li class="nav-item dropdown dmenu">
@@ -100,11 +100,11 @@ Shaheed Rajguru College of Applied Sciences, University of Delhi</h2>
                             Papers
                           </a>
                           <div class="dropdown-menu sm-menu">
-                            <a class="dropdown-item text-white" href="call_for_papers.html">Call For Papers</a>
+                            <a class="dropdown-item" href="call_for_papers.html">Call For Papers</a>
                             <div class="dropdown-divider"></div>
-                            <a class="dropdown-item text-white" href="paper_submission.html">Paper Submission</a>
+                            <a class="dropdown-item" href="paper_submission.html">Paper Submission</a>
                             <div class="dropdown-divider"></div>
-                            <a class="dropdown-item text-white" href="call_for_special_sessions.html">Call For Special Sessions</a>
+                            <a class="dropdown-item" href="call_for_special_sessions.html">Call For Special Sessions</a>
                           </div>
                         </li>
                         <li class="nav-item">
@@ -121,11 +121,11 @@ Shaheed Rajguru College of Applied Sciences, University of Delhi</h2>
                         Committee
                       </a>
                       <div class="dropdown-menu sm-menu">
-                        <a class="dropdown-item text-white" href="steering_committee.html">Steering Committee</a>
+                        <a class="dropdown-item" href="steering_committee.html">Steering Committee</a>
                         <div class="dropdown-divider"></div>
-                        <a class="dropdown-item text-white" href="Advisory_committee.html">Advisory Committee</a>
+                        <a class="dropdown-item" href="Advisory_committee.html">Advisory Committee</a>
                          <div class="dropdown-divider"></div>
-                        <a class="dropdown-item text-white" href="Technical_committee.html">Technical Committee</a>
+                        <a class="dropdown-item" href="Technical_committee.html">Technical Committee</a>
               
                       </div>
                       
@@ -151,11 +151,11 @@ Shaheed Rajguru College of Applied Sciences, University of Delhi</h2>
                     Special Sessions
                   </a>
                 <!--  <div class="dropdown-menu sm-menu">
-                    <a class="dropdown-item text-white" href="/gallery/Session1.pdf">Session 1</a>
+                    <a class="dropdown-item" href="/gallery/Session1.pdf">Session 1</a>
                     <div class="dropdown-divider"></div>
-                    <a class="dropdown-item text-white" href="#">Session 2</a>
+                    <a class="dropdown-item" href="#">Session 2</a>
                     <div class="dropdown-divider"></div>
-                    <a class="dropdown-item text-white" href="#">Session 3</a>
+                    <a class="dropdown-item" href="#">Session 3</a>
             
                   </div>-->
                  <!--   <div class="col col-12 col-lg-6 col-md-4">

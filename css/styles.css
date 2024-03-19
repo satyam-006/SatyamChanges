@@ -165,11 +165,12 @@ h1 {
   padding: 10px 30px 10px 30px;
 } */
 .dropdown-item {
-  color: white
+  color: white;
 }
 
 .dropdown-item:hover {
   background: lightgrey;
+  color: #343A40;
 }
 .navbar{
   font-family: 'Merriweather', serif;
