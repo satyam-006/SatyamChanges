@@ -44,7 +44,7 @@ Shaheed Rajguru College of Applied Sciences, University of Delhi</h2>
                         </ul>
                     </div>
                     <div class="col-7 col-sm-5">
-                        <h5> <span class="fa fa-map-marker"></span> Address</h5>
+                        <h5> <span class="fa-solid fa-location-dot"></span> Address</h5>
                         <address class="address">
                        Shaheed Rajguru College of Applied Sciences for Women,<br> Vasundhara Enclave,<br> Delhi-110096, <br> INDIA 
                       <br>
